@@ -1,2 +1,2 @@
 # Support-Server-Invite
-The support server invite in discord
+[Click here](https://discord.gg/33FbuAzUBC) for the invite!
